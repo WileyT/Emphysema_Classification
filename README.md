@@ -12,8 +12,8 @@ Thus, machine learning algorithms and deep learning techniques can act as a comp
 
 ## Lung Segmentation Model - Dilated Dense ResU-Net
 <p float="left">
- <img src="https://github.com/WileyT/Emphysema_Classification/blob/main/Modified_U-Net_Revised.png" width="150" height="150">
+ <img src="https://github.com/WileyT/Emphysema_Classification/blob/main/Modified_U-Net_Revised.png">
  
 ## Emphysema Classification Model - Convolutional Neural Network
 <p float="left">
- <img src="https://github.com/WileyT/Emphysema_Classification/blob/main/Emphysema_Classification_Model.png" width="150" height="150">
+ <img src="https://github.com/WileyT/Emphysema_Classification/blob/main/Emphysema_Classification_Model.png">
