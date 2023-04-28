@@ -11,5 +11,9 @@ However, with the lack of radiologists interpreting chest x-ray (CXR) images, it
 Thus, machine learning algorithms and deep learning techniques can act as a computer assisted diagnostic (CAD) tool to assist and expedite the procedure.
 
 ## Lung Segmentation Model - Dilated Dense ResU-Net
-
+<p float="left">
+ <img src="https://github.com/WileyT/Emphysema_Classification/blob/main/Modified_U-Net_Revised.png" width="150" height="150">
+ 
 ## Emphysema Classification Model - Convolutional Neural Network
+<p float="left">
+ <img src="https://github.com/WileyT/Emphysema_Classification/blob/main/Emphysema_Classification_Model.png" width="150" height="150">
